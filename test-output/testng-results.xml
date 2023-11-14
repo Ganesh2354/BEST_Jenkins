@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T20:05:18 IST" name="FBSuite" finished-at="2023-11-14T20:05:18 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- FBSuite -->
+  <suite started-at="2023-11-14T20:04:33 IST" name="Suite" finished-at="2023-11-14T20:05:17 IST" duration-ms="44306">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T20:04:33 IST" name="Test" finished-at="2023-11-14T20:05:17 IST" duration-ms="44306">
+      <class name="com.proj.tests.TC001_NaukriLogin">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.proj.tests.TC001_NaukriLogin@475c9c31]" started-at="2023-11-14T20:04:33 IST" name="browserSetup" finished-at="2023-11-14T20:04:54 IST" duration-ms="21494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginNaukri()[pri:0, instance:com.proj.tests.TC001_NaukriLogin@475c9c31]" started-at="2023-11-14T20:04:54 IST" name="loginNaukri" finished-at="2023-11-14T20:05:16 IST" duration-ms="22206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNaukri -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.proj.tests.TC001_NaukriLogin@475c9c31]" started-at="2023-11-14T20:05:16 IST" name="closeBrowser" finished-at="2023-11-14T20:05:17 IST" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.proj.tests.TC001_NaukriLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
